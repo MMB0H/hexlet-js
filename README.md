@@ -1,2 +1,2 @@
-This file - just a tets. you know!
+This file - just a test. you know!
 This is a new text. take it :)
